@@ -1,0 +1,22 @@
+{
+  "name": "amplify-nuxt",
+  "version": "1.0.0",
+  "description": "My fine Nuxt.js project",
+  "author": "hikaru-sasamoto",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "aws-amplify": "^3.3.2",
+    "aws-amplify-vue": "^2.1.2",
+    "nuxt": "^2.0.0",
+    "vue-class-component": "^7.2.6",
+    "vue-property-decorator": "^9.0.0",
+    "vuex-module-decorators": "^1.0.1"
+  },
+  "devDependencies": {}
+}
